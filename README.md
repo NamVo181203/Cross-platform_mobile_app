@@ -1,4 +1,4 @@
-# namvv_lab2
+# NVoz aka Vo Van Nam - Lab
 
 A new Flutter project.
 
