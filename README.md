@@ -1,4 +1,4 @@
-# lab1_i_am_rich
+# NVoz aka Vo Van Nam - Lab
 
 A new Flutter project.
 
